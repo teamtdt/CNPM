@@ -13,6 +13,5 @@
 @property(nonatomic) NSString *hoten;
 @property(nonatomic) NSString *gioitinh;
 @property (nonatomic) NSString *lop;
-@property (nonatomic) NSString *gvcn;
-
+@property (nonatomic) NSString *gv
 @end
